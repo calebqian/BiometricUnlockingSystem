@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_capture"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_capture"/>
+    <item
+        android:id="@+id/action_clear_canvas"
+        android:orderInCategory="200"
+        android:showAsAction="never"
+        android:title="@string/action_clear_canvas"
+        />
+        <item
+        android:id="@+id/action_submit"
+        android:orderInCategory="300"
+        android:showAsAction="never"
+        android:title="@string/action_submit"
+        />
+
+</menu>
