@@ -1,6 +1,5 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android" >
 
-
     <item
         android:id="@+id/action_clear_canvas"
         android:orderInCategory="200"
@@ -14,6 +13,6 @@
         android:showAsAction="never"
         android:title="@string/action_clear_training_data"
         />
-     
+
 
 </menu>
